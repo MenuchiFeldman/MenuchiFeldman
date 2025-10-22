@@ -1,5 +1,10 @@
 ## Hi, I'm Menucha!! 👋
 ### 🎯 Software Developer | Clean Code Enthusiast | Systems-Oriented
+#### Creates technological solutions that combine innovation with stability. Believes that quality code is not only functional, but also elegant and maintainable.
+
+
+
+
 
 
 
