@@ -1,13 +1,15 @@
 # Hi, I'm Menucha! 👋
 
-**Software Developer | Clean Code Enthusiast | Systems-Oriented**
+**Junior Software Developer | Clean Code Enthusiast**
 
-Creates technological solutions that combine innovation with stability. Believes that quality code is not only functional, but also elegant and maintainable.
+An enthusiastic junior developer with a strong foundation in web development. Committed to writing readable, well-structured code and eager to learn from experienced developers while contributing to meaningful projects.
 
 ## About Me
-Passionate software developer, with a strong passion for learning and development. Graduated from a comprehensive software development track, with a focus on Full Stack Development. Constantly looking for opportunities to learn new technologies and tackle interesting challenges.
+🚀 Successfully completed an intensive Full Stack Development specialization, where I developed a strong foundation in modern web technologies and discovered my passion for creating innovative solutions through code.
 
-## Sample Projects
+💡 Through hands-on experience and real-world projects, I've cultivated a deep appreciation for clean code practices and problem-solving in software development. Each challenge has strengthened my commitment to continuous learning and professional growth.
+
+Looking forward to leveraging my skills in meaningful projects and continuing to evolve as a developer in this dynamic field! ✨## Sample Projects
 
 ### 🚗 [Car Rental Management System](https://github.com/LevMiriam/FinalProject.git)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).
