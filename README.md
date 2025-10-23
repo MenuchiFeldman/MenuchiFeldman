@@ -13,71 +13,48 @@ Looking forward to leveraging my skills in meaningful projects and continuing to
 
 ## 🛠 Technical Skills
 
-### Programming Languages
-- **Core Languages:** Java, C#, Python, Java8
-- **Web Development:** JavaScript (ES6+), HTML5, CSS
-- **Additional:** C, C++
-
 ### Frontend Development
-- **Framework:** React
-- **Styling:** CSS3, Modern CSS
-- **Core:** HTML5, JavaScript ES6+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend Development
-- **Technologies:** Python, C#, Node.js
-- **Frameworks:** .NET Core, Web API
-- **Architecture:** Design Patterns, REST APIs
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 ### Databases
-- **SQL:** SQL Server, SQL
-- **NoSQL:** MongoDB
-- **Skills:** Database Design, Query Optimization
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Development Tools & DevOps
-- **Version Control:** Git
-- **Containerization:** Docker
-- **Cloud:** Basic Cloud Computing Concepts
-- **IDE:** Visual Studio, VS Code, PyCharm, NetBeans, Jupyter Notebook
+### Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### Additional Technical Education
-- **Computer Science:** 
-  - Data Structures
-  - Algorithms
-  - Operating Systems
-  - Computer Architecture
-  - Network & Communication
-  - Digital Systems
+### Additional Skills
+- **Programming Languages:** Java, C++
+- **Computer Science:** Data Structures, Algorithms, System Design
+- **Languages:** Hebrew (Native), English (Advanced)
 
-- **Mathematics:** 
-  - Advanced Mathematics
-  - Discrete Mathematics
-  - Statistics
-
-- **Security:**
-  - Introduction to Information Security
-  - Basic DevOps Practices
-
-- **System Analysis:**
-  - System Analysis & Design
-  - Software Architecture
-
-### Languages
-- **Hebrew:** Native
-- **English:** Advanced Professional Proficiency
-
+בס"ד
 בס"ד
 
 ## Sample Projects
 
-### 🚗 [Car Rental Management System](https://github.com/LevMiriam/FinalProject.git)
+### 🚗 [Car Rental Management System .NET 8 + React + SQL](https://github.com/LevMiriam/FinalProject.git)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).
 Includes vehicle inventory, booking calendar with Hebrew date validation, user authentication, and invoice generation via email.
 
 
-### 🛍️ [Online Store Web App](https://github.com/MenuchiFeldman/ReactOnlineStore.git)
-A responsive, modern online shop built with React.
+### 🛍️ [Online Store Web App -React](https://github.com/MenuchiFeldman/ReactOnlineStore.git)
+A responsive, modern online shop built with **React**.
 Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.
 
+### 🎯 [Mastermind Game - Node.js](https://github.com/MenuchiFeldman/NodeJS-Project.git)
+An interactive command-line implementation of the classic Mastermind game built with **Node.js**.
 
 
 
