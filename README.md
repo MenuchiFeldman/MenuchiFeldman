@@ -53,9 +53,6 @@ Looking forward to leveraging my skills in meaningful projects and continuing to
 - **Hebrew:** Native
 - **English:** Professional Working Proficiency
 
-בס"ד
-בס"ד
-בס"ד
 
 ## Sample Projects
 
