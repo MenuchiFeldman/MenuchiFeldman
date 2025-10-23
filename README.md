@@ -12,12 +12,12 @@ Constantly looking for opportunities to learn new technologies and tackle intere
 
 
 
-Sample Projects
-•[🚗 Car Rental Management System -.NET 8 + React + SQL] (https://github.com/LevMiriam/FinalProject.git)
+### Sample Projects
+• [🚗 Car Rental Management System](https://github.com/LevMiriam/FinalProject.git)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).
 Includes vehicle inventory, booking calendar with Hebrew date validation, user authentication, and payment + invoice generation via email.
 
-•🛍️ [Online Store Web App -React] (https://github.com/MenuchiFeldman/ReactOnlineStore.git)
+• [🛍️ Online Store Web App](https://github.com/MenuchiFeldman/ReactOnlineStore.git)
 A responsive, modern online shop built with React.
 Includes product catalog, dynamic cart management with localStorage, and admin product editing UI.
 
