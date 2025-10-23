@@ -9,7 +9,65 @@ An enthusiastic junior developer with a strong foundation in web development. Co
 
 💡 Through hands-on experience and real-world projects, I've cultivated a deep appreciation for clean code practices and problem-solving in software development. Each challenge has strengthened my commitment to continuous learning and professional growth.
 
-Looking forward to leveraging my skills in meaningful projects and continuing to evolve as a developer in this dynamic field! ✨## Sample Projects
+Looking forward to leveraging my skills in meaningful projects and continuing to evolve as a developer in this dynamic field! ✨
+
+## 🛠 Technical Skills
+
+### Programming Languages
+- **Core Languages:** Java, C#, Python, Java8
+- **Web Development:** JavaScript (ES6+), HTML5, CSS
+- **Additional:** C, C++
+
+### Frontend Development
+- **Framework:** React
+- **Styling:** CSS3, Modern CSS
+- **Core:** HTML5, JavaScript ES6+
+
+### Backend Development
+- **Technologies:** Python, C#, Node.js
+- **Frameworks:** .NET Core, Web API
+- **Architecture:** Design Patterns, REST APIs
+
+### Databases
+- **SQL:** SQL Server, SQL
+- **NoSQL:** MongoDB
+- **Skills:** Database Design, Query Optimization
+
+### Development Tools & DevOps
+- **Version Control:** Git
+- **Containerization:** Docker
+- **Cloud:** Basic Cloud Computing Concepts
+- **IDE:** Visual Studio, VS Code, PyCharm, NetBeans, Jupyter Notebook
+
+### Additional Technical Education
+- **Computer Science:** 
+  - Data Structures
+  - Algorithms
+  - Operating Systems
+  - Computer Architecture
+  - Network & Communication
+  - Digital Systems
+
+- **Mathematics:** 
+  - Advanced Mathematics
+  - Discrete Mathematics
+  - Statistics
+
+- **Security:**
+  - Introduction to Information Security
+  - Basic DevOps Practices
+
+- **System Analysis:**
+  - System Analysis & Design
+  - Software Architecture
+
+### Languages
+- **Hebrew:** Native
+- **English:** Advanced Professional Proficiency
+
+בס"ד
+
+## Sample Projects
 
 ### 🚗 [Car Rental Management System](https://github.com/LevMiriam/FinalProject.git)
 A full-stack car rental system designed with a clean three-layer architecture (DAL–BL–Server).
